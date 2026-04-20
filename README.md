@@ -1,4 +1,9 @@
 # 🏥 병원 키오스크 시스템
+
+![.NET](https://img.shields.io/badge/.NET-Framework-512BD4)
+![Language](https://img.shields.io/badge/Language-C%23-239120)
+![UI](https://img.shields.io/badge/UI-Windows%20Forms-0078D6)
+
 C# WinForms 기반 접수 및 대기 관리 프로그램
 
 ---
@@ -85,6 +90,11 @@ C# WinForms 기반 접수 및 대기 관리 프로그램
 - 실제 DB 연동을 통한 데이터 관리 개선  
 - 진료과별 기능 확장  
 - 사용자 편의성을 고려한 UI/UX 개선  
+
+---
+
+## 🎥 시연 영상
+[시연 영상 보기](여기에_영상링크_넣기)
 
 ---
 
