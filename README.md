@@ -70,17 +70,13 @@ C# WinForms 기반 접수 및 대기 관리 프로그램
 ## 📷 실행 화면
 
 ### 접수 화면
-사용자가 접수 기능을 선택하는 메인 화면입니다.  
 <img src="main.png" width="600"/>
 
-### 수납 화면
-수납 대기 환자 목록을 확인하고 결제를 진행하는 화면입니다.  
-<img src="payment.png" width="600"/>
-
 ### 대기 / 호출 화면
-진료과별 대기 목록을 확인하고 환자를 호출 및 상태를 관리하는 화면입니다.  
 <img src="wait.png" width="600"/>
 
 ### 처방전 화면
-진료 후 환자 정보를 기반으로 처방전 내용을 확인할 수 있는 화면입니다.  
 <img src="prescription.png" width="600"/>
+
+### 수납 화면
+<img src="payment.png" width="600"/>
