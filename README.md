@@ -1,8 +1,8 @@
 # 🏥 병원 키오스크 시스템
 
-![.NET](https://img.shields.io/badge/.NET-Framework-6C757D)
-![Language](https://img.shields.io/badge/C%23-6C757D)
-![UI](https://img.shields.io/badge/WinForms-6C757D)
+![.NET](https://img.shields.io/badge/.NET-Framework-lightgrey)
+![Language](https://img.shields.io/badge/C%23-lightgrey)
+![UI](https://img.shields.io/badge/WinForms-lightgrey)
 
 C# WinForms 기반 접수 및 대기 관리 프로그램
 
