@@ -20,24 +20,16 @@ C# WinForms 기반 접수 및 대기 관리 프로그램
 2. 신규 / 기존 환자 여부에 따라 접수 진행
 3. 진료과 및 증상 선택
 4. 대기 목록에 등록 후 호출 상태 확인
-5. 진료 후 처방전 확인 및 수납 진행
+5. 진료 후 처방전 확인
+6. 수납 진행
 
 ---
 
-## 🛠 개발 환경
+## 🛠 개발 환경 및 기술 스택
 - Language: C#
 - Framework: WinForms
 - IDE: Visual Studio
-
----
-
-## 🛠 기술 스택
-| 구분 | 내용 |
-|------|------|
-| 언어 | C# |
-| UI | WinForms |
-| 개발환경 | Visual Studio |
-| 자료구조 | Queue, Dictionary |
+- 자료구조: Queue, Dictionary
 
 ---
 
