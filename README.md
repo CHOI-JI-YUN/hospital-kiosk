@@ -112,7 +112,6 @@ C# WinForms 기반 접수 및 대기 관리 프로그램
 진료 후 환자 정보를 기반으로 처방전 내용을 확인할 수 있는 화면입니다.  
 <img src="images/prescription.png" width="600"/>
 
-
 ### 수납 화면
 수납 대기 환자 목록을 확인하고 결제를 진행하는 화면입니다.  
 <img src="images/payment.png" width="600"/>
