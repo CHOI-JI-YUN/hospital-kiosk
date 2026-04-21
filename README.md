@@ -157,9 +157,7 @@ hospital-kiosk/
 
 ### 접수 화면
 사용자가 접수 또는 수납 기능을 선택하는 메인 화면입니다.  
-<p align="center">
-  <img src="images/main.png" width="650"/>
-</p>
+<img src="images/main.png" width="600"/>
 
 ### 대기 / 호출 화면
 진료과별 대기 목록을 확인하고 환자를 호출 및 상태를 관리하는 화면입니다.  
