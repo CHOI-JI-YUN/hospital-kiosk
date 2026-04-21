@@ -109,6 +109,7 @@ hospital-kiosk/
 ├── FormPrescription.cs    # 처방전 화면
 ├── WaitItem.cs            # 대기 데이터 클래스
 ├── Program.cs             # 실행 진입점
+```
 
 ---
 
